@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Moassar+Rizwi;I'm+a+MERN+Stack+Developer;E-mail+-+imermoassarrizwi@gmail.com;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
-![logo](https://github.com/moassar786/moassar786/blob/main/imermoassar.jpg)
+![logo](https://github.com/moassar786/moassar786/blob/main/moassarGitHubBanner.jpeg)
 
 # 💫 About Moassar:
 🔭 I’m currently learning MERN Stack Web Development<br> 
@@ -137,7 +137,7 @@ if (codeWorking){
 
 
 ## Current GitHub Stats 📊:
-![Stats](https://github-readme-stats.vercel.app/api?username=moassar786&show_icons=true&hide_border=false&theme=radical&count_private=false&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=moassar786&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moassar786&theme=radical&border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--![](https://github-readme-stats.vercel.app/api?username=moassar786&theme=radical&_border=false&include_all_commits=true&count_private=true)-->
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -155,7 +155,7 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=moassar786&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
 <!--[![](https://gtce.itsvg.in/api?username=moassar786&theme=jolly&response=true)](https://github.com/moassar786/github-twitter-card-embed)-->
